@@ -16,7 +16,7 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('/img/imagem.jpg'); /* Adicione o caminho para sua imagem */
+    background-image: url('../img/imagem.jpg'); /* Adicione o caminho para sua imagem */
     background-size: cover;
     background-position: center;
     filter: blur(3px); /* Aplicando um desfoque de 5px na imagem de fundo */
